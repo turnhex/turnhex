@@ -1,6 +1,6 @@
 # 🏄‍♂️ TurnHex
 
-**`(Developer/Hacker/Content Creator)`**
+**`(Hacker/Content Creator)`**
 
 I'm a self-taught hacker and cybersecurity enthusiast, building and breaking the digital world one step at a time. From ethical hacking to real-world security solutions, I create content to share my journey with fellow hackers and developers. All projects are crafted from scratch, from planning and testing, to executing solutions that enhance security. I also run my YouTube channel "[TurnHex][youtube]" where I share tutorials, hacking challenges, and security tips with a growing community.
 
